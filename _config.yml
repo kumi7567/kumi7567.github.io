@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 locale                   : "es-ES"
 title                    : "kumi7567.github.io"
 title_separator          : "-"
-name                     : "Kumi"
+name                     : "Sh4d0w"
 description              : "Posts about security, CTFs and networking"
 url                      : "https://kumi7567.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Kumi"
   avatar           : "/assets/images/avatar.png"
-  bio              : "CTF player"
+  bio              : "CTF player & Enthusiastic about Cybersecurity"
   location         : "España"
   email            : 
   uri              :
