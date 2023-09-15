@@ -2,7 +2,7 @@
 layout: single
 title: Timelapse - Hack The Box
 excerpt: "En esta máquina fácil Windows econtraremos un archivo .zip expuesto en el servicio **SMB** el cuál podremos crackear su contraseña con **zip2john**. Dentro habrá un archivo **.pfx** donde podremos obtener un certificado y una clave privada. Antes tendremos que averiguar la contraseña con herramientas como **pfx2john** o **crackpkcs12**. Una vez hecho esto nos podremos conectar al servicio **winrm por ssl** con la herramienta **evil-winrm**. En nuestro camino para convertirnos en Administrator encontraremos unas credenciales en el **histórico de powershell** y posteriormente nos aprovecharmos del grupo **LDAP_readers** para obtener la contraseña del Administrador"
-date: 2023-01-18
+date: 2023-09-09
 classes: wide
 header:
   teaser: /assets/images/htb-writeup-timelapse/timelapse_logo.png

@@ -2,7 +2,7 @@
 layout: single
 title: Reddish - Hack The Box
 excerpt: "Esta máquina es muy buena para practicar para la certificación eCPPTv2 debido a que se toca mucho Pivoting. Estaremos todo el rato saltando entre contenedores gestionados con docker. Nos aprovecharemos de NodeRed para ganar acceso al primer contedor y luego de redis y de rsync para entrar en los siguientes."
-date: 2023-01-08
+date: 2023-09-07
 classes: wide
 header:
   teaser: /assets/images/htb-writeup-reddish/reddish_logo.png

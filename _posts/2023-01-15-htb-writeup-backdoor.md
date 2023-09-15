@@ -2,7 +2,7 @@
 layout: single
 title: Backdoor - Hack The Box
 excerpt: "En esta máquina fácil nos estaremos aprovechando del plugin de WordPress **ebook-download** para explotar un **Local File Inclusion** y así poder descubrir el comando **gdbserver** en la ruta **/proc/**. Después, explotaremos una vulnerabilidad de dicho servicio con la que obtendremos acceso a la maquina víctima. Una vez dentro, encontraremos una sesión de screen **activa** y al conectarnos estaremos como root"
-date: 2023-01-15
+date: 2023-09-08
 classes: wide
 header:
   teaser: /assets/images/htb-writeup-backdoor/backdoor_logo.png

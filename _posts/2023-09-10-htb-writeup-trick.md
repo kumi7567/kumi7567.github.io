@@ -2,7 +2,7 @@
 layout: single
 title: Trick - Hack The Box
 excerpt: "En esta máquina Linux fácil estaremos reailzando un **ataque de transferencia de zona (axfr)** para descubrir un subdominio. Gracias a este subdominio podremos descubrir uno oculto con la herramienta **wfuzz**. Además, nos estaremos aprovechando de una **SQL Injection**. Haremos un script basado en tiempo y otro con condicionales para practicar. Encontraremos un **Local File Inclusion** con el que nos podremos aprovechar para acceder a la máquina victima de 3 formas diferentes. Por último, para convertirnos en root, nos aprovecharemos de **Fail2ban** y de una configuración en el sistema."
-date: 2023-02-13
+date: 2023-09-10
 classes: wide
 header:
   teaser: /assets/images/htb-writeup-trick/trick_logo.png
